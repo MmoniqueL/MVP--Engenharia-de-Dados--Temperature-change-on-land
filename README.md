@@ -16,7 +16,7 @@ O pipeline contempla as seguintes etapas:
 
 ## 📁 Arquivos no repositório
 
-- `climate_change_analysis.ipynb` – Notebook principal com o pipeline completo em PySpark e SQL. Nele estão incluídas as explicações detalhadas sobre a modelagem do banco de dados e todas as análises realizadas via SQL.
+- `Climate_Change_Surface_Temperature.ipynb` – Notebook principal com o pipeline completo em PySpark e SQL. Nele estão incluídas as explicações detalhadas sobre a modelagem do banco de dados e todas as análises realizadas via SQL.
 - `catalogo_dados_temperature_change_on_land.xlsx` – Catálogo de dados completo, contendo descrição dos atributos, domínios, validações, entidades, relacionamentos e chaves.
 - Imagens auxiliares (.png) – Diagramas ER e artefatos gerados durante a documentação.
 
